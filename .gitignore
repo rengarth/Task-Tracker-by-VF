@@ -1,0 +1,16 @@
+.env
+.tools/
+backend/target/
+frontend/node_modules/
+frontend/dist/
+backups/
+*.log
+*.tsbuildinfo
+.local/
+
+# User data and locally built launcher
+docs/*.png
+/Трекер.exe
+*.dump
+*.backup
+*.bak
